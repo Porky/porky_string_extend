@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{porky_string_extend}
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   s.summary = %q{porky_string_extend adds useful features to the String class}
   s.require_paths = ["lib"]
   s.files = ['lib/porky_string_extend.rb']
